@@ -1,6 +1,6 @@
 const questions = [
     {
-        question:"which is largest aninmal in the world",
+        question:"which is largest animal in the world",
         answers:[
             {text: "shark", correct: false},
             {text: "Blue whale", correct: true},
@@ -23,7 +23,7 @@ const questions = [
         question:"which is largest desert in the world",
         answers: [
             {text: "kalahari", correct: false},
-            {text: "Gobi", correct: true},
+            {text: "Gobi", correct: false},
             {text: "Sahara", correct: false},
             {text: "Antarctica", correct: true},
         ]
